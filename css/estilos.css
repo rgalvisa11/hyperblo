@@ -5,6 +5,13 @@ body
     font-family: 'Times New Roman', Times, serif;
 }
 
+#cabecera
+{
+    background-color: blue;
+    color: white;
+}
+
+
 #container
 {
     width: 75%;
